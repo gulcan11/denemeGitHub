@@ -10,6 +10,10 @@ public class GitHubKendimBaglama {
         System.out.println(isim);
 
 
+        char sembol = 'x';
+        System.out.println(sembol);
+
+
 
 
     }
