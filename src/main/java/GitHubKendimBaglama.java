@@ -5,6 +5,9 @@ public class GitHubKendimBaglama {
         int a = 8;
         int b = 15;
         System.out.println(a+b);
+        
+        String isim = "GULCAN";
+        System.out.println(isim);
 
 
 
